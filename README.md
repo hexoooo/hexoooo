@@ -58,7 +58,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-<p dir="auto"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="" data-canonical-src="https://readme-typing-svg.herokuapp.com?lines=hi+i'm+Mohammed+Hamed;i'm+Backend+Developer;Any+fool+can+write+code+that+a+computer+can+understand.+Good+programmers+write+code+that+humans+can+understand.&amp;center=true&amp;width=500&amp;height=50" style="max-width: 100%;"></a></p>
 
 ###
 
