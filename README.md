@@ -1,8 +1,6 @@
-<h2 align="center">Hi 👋! My name is Moahmmed Hamed and I'm a Laravel backend developer, from Egypt</h2>
+<h2 align="center">Hi 👋! My name is Mohammed Hamed and I'm a Laravel backend developer from Egypt</h2>
 
-###
-
-  <div align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/m0hammed-hamed/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -12,33 +10,10 @@
   <a href="https://www.facebook.com/mohammed.hamed.14019338" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="mohammedhammed701@gmail.com" target="_blank">
+  <a href="mailto:mohammedhammed701@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-
-
-<br clear="both">
-
-<p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" data-target="animated-image.originalLink"><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" target="_blank">
-        </a>
-      </span>
-  </animated-image>
-</p>
-
-###
-
-<div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif"  />
-</div>
-
-###
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
@@ -74,5 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-          
-        
+<div align="center">
+  <img height="150" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif"  />
+</div>
