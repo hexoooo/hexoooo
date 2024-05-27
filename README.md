@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-  <img align="right height="150" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif"  />
-  <img align="left height="150" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif"  />
+  <img align="right" height="150" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif"  />
+  <img align="left" height="150" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif"  />
 </div>
 
