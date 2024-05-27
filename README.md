@@ -55,10 +55,10 @@
 </div>
 
 <div align="center">
-  <img align="right" height="150" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif"  />
+  <img align="center" height="150" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif"  />
   <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif"  />
-  <img align="center" height="150" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"  />
-  <img align="center" height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
+  <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"  />
+  <img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
   <img align="left" height="150" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif"  />
  
 </div>
