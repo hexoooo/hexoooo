@@ -1,6 +1,6 @@
 <div align ="center"> <img align="center" height="150" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"  />
 </div>
- <h2 align="center">Hi 👋! My name is Mohammed Hamed and I'm a Laravel backend developer from Egypt</h2>
+ <h1 align="center">Hi 👋! My name is Mohammed Hamed and I'm a Laravel backend developer from Egypt</h1>
 
 <div align="center">
   <h2 align="center"><span> <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" height="25" alt="social logo"  /> </span> here is my social media info <span> <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" height="25" alt="social logo"  /> </span>  </h2>
