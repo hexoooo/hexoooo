@@ -1,6 +1,7 @@
 <h2 align="center">Hi 👋! My name is Mohammed Hamed and I'm a Laravel backend developer from Egypt</h2>
 
 <div align="center">
+  <h2 align="center">here is my social media info <span> <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" height="12" alt="social logo"  /> </span>  </h2>
   <a href="https://www.linkedin.com/in/m0hammed-hamed/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="35" alt="linkedin logo"  />
   </a>
