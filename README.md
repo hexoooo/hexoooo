@@ -3,7 +3,7 @@
  <h1 align="center">Hi 👋! My name is Mohammed Hamed and I'm a Laravel backend developer from Egypt</h1>
 
 <div align="center">
-  <h2 align="center"><span> <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" height="25" alt="social logo"  /> </span> here is my social media info <span> <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" height="25" alt="social logo"  /> </span>  </h2>
+  <h2 align="center"><span> 🔽  </span> here is my social media info <span> 🔽 </span>  </h2>
   <a href="https://www.linkedin.com/in/m0hammed-hamed/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="35" alt="linkedin logo"  />
   </a>
@@ -19,7 +19,7 @@
 </div>
 
 <div align="left">
-    <h2 align="center"><span> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="25" alt="social logo"  /> </span> here is my skills <span> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="25" alt="social logo"  /> </span>  </h2>
+    <h2 align="center"><span> 🔽 </span> here is my skills <span> 🔽 </span>  </h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
