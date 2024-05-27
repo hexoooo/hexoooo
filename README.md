@@ -52,3 +52,6 @@
 <div align="center">
   <img height="150" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif"  />
 </div>
+<div align="center">
+  <img height="150" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif](https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif"  />
+</div>
