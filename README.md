@@ -132,17 +132,6 @@ Strong background in ERP systems, e-commerce platforms, and SaaS solutions.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7oSkaaa&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
