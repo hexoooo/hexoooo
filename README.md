@@ -1,65 +1,156 @@
-<div align ="center"> <img align="center" height="150" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"  />
-</div>
- <h1 align="center">Hi 👋! My name is Mohammed Hamed and I'm a Laravel backend developer from Egypt</h1>
+<h1 align="center">
+Hi 👋, I'm Mohammed Hamed
+</h1>
 
-<div align="center">
-  <h2 align="center"><span> 🔽  </span> here is my social media info <span> 🔽 </span>  </h2>
-  <a href="https://www.linkedin.com/in/m0hammed-hamed/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="35" alt="linkedin logo"  />
+<h3 align="center">
+Backend Developer | Laravel | REST APIs | ERP & SaaS Systems
+</h3>
+
+<p align="center">
+Backend Developer with <b>3+ years</b> of experience building scalable, secure, and high-performance systems using <b>Laravel</b> and <b>MySQL</b>.  
+Strong background in ERP systems, e-commerce platforms, and SaaS solutions.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💻 Backend Developer specialized in **Laravel & PHP**
+- ⚙️ Built and maintained **ERP, E-commerce, Real Estate & Education platforms**
+- 🚀 Improved backend & database performance by up to **70%**
+- 🔗 Strong experience with **RESTful APIs & integrations**
+- 🛠️ Focused on clean code, scalability & security
+- 🤝 Experience working with **Agile teams & CI/CD**
+- 📍 Egypt | 🌍 Open to **Remote & On-site opportunities**
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend & Languages
+- PHP
+- Laravel
+- JavaScript
+- HTML, CSS, Ajax
+
+### Databases
+- MySQL
+- Query Optimization
+- Database Indexing
+- Schema Design & Migrations
+
+### API Development
+- RESTful API Design
+- Authentication & Authorization
+- Third-party Integrations
+
+### DevOps & Tools
+- Git & GitHub
+- CI/CD Pipelines
+- Linux Server Management
+
+### Testing & Quality
+- PHPUnit
+- Feature & API Testing
+- Code Reviews
+
+### Methodologies
+- Agile / Scrum
+- Software Design Patterns
+- Scalable Architecture
+
+---
+
+## 💼 Work Experience
+
+### **Backend Developer – domApp**
+📅 *Jan 2025 – Present*
+
+- Developed a **civil engineering insurance system**
+- Built secure RESTful APIs for web & mobile applications
+- Implemented backend modules:
+  - Policy management
+  - Engineer records
+  - Building inspections
+- Optimized performance and ensured data integrity
+
+---
+
+### **Backend Developer – Al-Badr Smart Systems**
+📅 *May 2024 – Jan 2025*
+
+- Enhanced a large-scale **ERP system**
+- Improved performance for:
+  - Warehouse
+  - Delivery
+  - POS
+  - E-commerce modules
+- Optimized database queries, reducing server load
+- Conducted code reviews and maintained clean architecture
+
+---
+
+### **Backend Developer – Elryad**
+📅 *Sep 2023 – May 2024*
+
+- Developed backend services for enterprise web applications
+- Designed and optimized database schemas
+- Integrated third-party REST APIs
+- Fixed performance bottlenecks & security issues
+
+---
+
+### **Backend Developer – Semi Colon**
+📅 *Nov 2022 – Feb 2023*
+
+- Built APIs for a school management system
+- Improved server performance
+- Reduced page load times by **70%**
+
+---
+
+## 📌 Key Projects
+
+- **ERP System (Albadr Sales)**  
+  Scalable ERP handling warehouse, POS & online store modules with 15k+ daily transactions
+
+- **Aqarsoq (Real Estate Marketplace)**  
+  Backend for property listings, advanced search & payments (10k+ listings)
+
+- **Almmlakah (Car Auctions Platform)**  
+  Designed bidding APIs and transaction workflows
+
+- **Academy Mentor (School Management System)**  
+  Student, teacher & course management with major performance improvements
+
+- **HDIIT (E-Learning Platform)**  
+  Backend for courses, exams & analytics (2k+ users)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7oSkaaa&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:mohammedhammed701@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://wa.me/+201144906897" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" height="35" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/m0hammed-hamed">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/mohammed.hamed.14019338" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" height="35" alt="facebook logo"  />
-  </a>
-  <a href="mailto:mohammedhammed701@gmail.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-<div align="left">
-    <h2 align="center"><span> 🔽 </span> here is my skills <span> 🔽 </span>  </h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
-    <img width="12"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-
-</div>
-
-<div align="center">
-  <img align="center" height="150" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif"  />
-  <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif"  />
-  <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"  />
-  <img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
-  <img align="left" height="150" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif"  />
- 
-</div>
-
+</p>
