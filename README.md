@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Mohammed Hamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/hexoooo"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer+Specializing+in+Laravel;3%2B+Years+of+Experience+in+ERP+%26+SaaS;Expert+in+Database+%26+API+Optimization;Building+Scalable+%26+Secure+Systems"></a>
+  <a href="https://github.com/hexoooo"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=BBackend+Developer+Specializing+in+Laravel;3%2B+Years+of+Experience+in+ERP+%26+SaaS;Expert+in+Database+%26+API+Optimization;Building+Scalable+%26+Secure+Systems"></a>
 </p>
 
 <br>
@@ -99,25 +99,4 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<details><summary><h3>🔥 Streak Stats</h3></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hexoooo&theme=tokyonight_duo" alt="hexoooo" /></p>
-</details>
-
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="hexoooo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hexoooo&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hexoooo&langs_count=8&show_icons=true&locale=en&theme=tokyonight" alt="hexoooo" height="230px"/>
-</p>
-</details>
-
-<details><summary> <h3>🏆 GitHub Profile Trophies</h3></summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hexoooo&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="hexoooo" /></a> </p>
-</details>
-
-## 🐍 Contribution Graph
-<p align="center">
-	<img src="https://raw.githubusercontent.com/hexoooo/hexoooo/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
